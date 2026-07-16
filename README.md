@@ -98,3 +98,8 @@ Make sure you have the following installed on your machine:
 
 *   **Abdul Wasay** - *Lead Developer / Researcher* - [theabdulwasay](https://github.com/theabdulwasay)
 *   Developed as a Final Year Project (FYP) for [COMSATS WAH/COMPUTER SCIENCE].
+<img width="729" height="433" alt="Screenshot 2026-07-16 132425" src="https://github.com/user-attachments/assets/6a46a20e-044d-47d2-808b-bd22b8e2860a" />
+<img width="716" height="380" alt="Screenshot 2026-07-16 132418" src="https://github.com/user-attachments/assets/fcb79607-53e1-4814-93df-eac4cfd0015d" />
+
+*   <img width="729" height="433" alt="image" src="https://github.com/user-attachments/assets/defd7364-f666-4ce0-966d-6b648460e1e3" />
+
