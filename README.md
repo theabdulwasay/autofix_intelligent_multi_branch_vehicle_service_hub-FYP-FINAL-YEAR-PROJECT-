@@ -57,7 +57,8 @@ Here are a few glimpses of the AutoFix platform in action:
 
 | Dashboard View | Booking Management |
 | :---: | :---: |
-| ![Dashboard Screenshot](Screenshot%202026-07-16%20115829.png) | ![Booking Screenshot](Screenshot%202026-07-16%20115903.png) |
+| ![Dashboard Screenshot]<img width="696" height="435" alt="Screenshot 2026-07-16 132406" src="https://github.com/user-attachments/assets/3038da6b-90de-40a3-a7f3-9302b705ed0b" />
+ | ![Booking Screenshot](Screenshot%202026-07-16%20115903.png) |
 
 *(Refer to the repository's main file list to explore all available system screenshots.)*
 
@@ -98,8 +99,5 @@ Make sure you have the following installed on your machine:
 
 *   **Abdul Wasay** - *Lead Developer / Researcher* - [theabdulwasay](https://github.com/theabdulwasay)
 *   Developed as a Final Year Project (FYP) for [COMSATS WAH/COMPUTER SCIENCE].
-<img width="729" height="433" alt="Screenshot 2026-07-16 132425" src="https://github.com/user-attachments/assets/6a46a20e-044d-47d2-808b-bd22b8e2860a" />
-<img width="716" height="380" alt="Screenshot 2026-07-16 132418" src="https://github.com/user-attachments/assets/fcb79607-53e1-4814-93df-eac4cfd0015d" />
-
-*   <img width="729" height="433" alt="image" src="https://github.com/user-attachments/assets/defd7364-f666-4ce0-966d-6b648460e1e3" />
+<img width="696" height="435" alt="Screenshot 2026-07-16 132406" src="https://github.com/user-attachments/assets/6f4f3c72-79a5-4fa4-a1bb-7bfd7d3b6bf1" />
 
