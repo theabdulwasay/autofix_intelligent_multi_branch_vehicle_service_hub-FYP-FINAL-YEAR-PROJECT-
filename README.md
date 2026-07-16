@@ -52,17 +52,14 @@ This repository contains the complete documentation, project screenshots, and vi
 ---
 
 ## 📸 System Previews
+<img width="696" height="435" alt="Screenshot 2026-07-16 132406" src="https://github.com/user-attachments/assets/64f6b1fc-15f5-4760-8b88-c139c0659d97" />
+<img width="716" height="380" alt="Screenshot 2026-07-16 132418" src="https://github.com/user-attachments/assets/07b3a099-865d-41c4-a92e-ac434720f49c" />
 
-Here are a few glimpses of the AutoFix platform in action:
+<img width="729" height="433" alt="Screenshot 2026-07-16 132425" src="https://github.com/user-attachments/assets/a706363a-a75b-4a9c-95be-e74a491a21b7" />
 
-| Dashboard View | Booking Management |
-| :---: | :---: |
-| ![Dashboard Screenshot]<img width="696" height="435" alt="Screenshot 2026-07-16 132406" src="https://github.com/user-attachments/assets/3038da6b-90de-40a3-a7f3-9302b705ed0b" />
- | ![Booking Screenshot](Screenshot%202026-07-16%20115903.png) |
 
-*(Refer to the repository's main file list to explore all available system screenshots.)*
 
----
+
 
 ## 🚀 Getting Started
 
@@ -99,5 +96,18 @@ Make sure you have the following installed on your machine:
 
 *   **Abdul Wasay** - *Lead Developer / Researcher* - [theabdulwasay](https://github.com/theabdulwasay)
 *   Developed as a Final Year Project (FYP) for [COMSATS WAH/COMPUTER SCIENCE].
-<img width="696" height="435" alt="Screenshot 2026-07-16 132406" src="https://github.com/user-attachments/assets/6f4f3c72-79a5-4fa4-a1bb-7bfd7d3b6bf1" />
+
+
+<img width="426" height="491" alt="image" src="https://github.com/user-attachments/assets/be62631d-5547-4f38-b038-9a2a25ecff97" />
+<img width="435" height="596" alt="image" src="https://github.com/user-attachments/assets/cded79f7-d87c-443b-bf7e-5fdcd32a5554" />
+
+<img width="467" height="396" alt="image" src="https://github.com/user-attachments/assets/675550c8-a930-4047-996b-b40952d20959" />
+
+<img width="490" height="510" alt="image" src="https://github.com/user-attachments/assets/96f4d1e2-ea84-4d68-a6e9-d99e6ac9ac47" />
+
+<img width="463" height="481" alt="image" src="https://github.com/user-attachments/assets/cbab9ed4-56f1-4eda-a2bb-747e7254adaa" />
+
+<img width="473" height="380" alt="image" src="https://github.com/user-attachments/assets/8043a3a8-dea8-4596-8bb1-c8a71eac0518" />
+
+<img width="471" height="427" alt="image" src="https://github.com/user-attachments/assets/fe6f1d0c-1abd-4711-a475-9a67b3b12cfc" />
 
