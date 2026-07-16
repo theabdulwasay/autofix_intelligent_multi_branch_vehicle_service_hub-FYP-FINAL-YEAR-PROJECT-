@@ -97,4 +97,4 @@ Make sure you have the following installed on your machine:
 ## 🎓 Author
 
 *   **Abdul Wasay** - *Lead Developer / Researcher* - [theabdulwasay](https://github.com/theabdulwasay)
-*   Developed as a Final Year Project (FYP) for [Your University/Department Name].
+*   Developed as a Final Year Project (FYP) for [COMSATS WAH/COMPUTER SCIENCE].
